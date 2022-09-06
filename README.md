@@ -1,2 +1,2 @@
-# Eternity-Craft
-The Eternity Craft is a CursedForge mod for Minecraft created by Acronix98
+# The Eternity Craft
+The Eternity Craft is a CurseForge mod for Minecraft created by Acronix98
